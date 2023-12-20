@@ -29,14 +29,14 @@ Should you disagree with the changes, you are obliged to discontinue using our S
 # 2. Privacy
 
 ## 2.1 Handling of Personal Data
-To understand how your information is collected, utilized, disclosed, or processed in relation to your interaction with our Services and Software, please refer to our [Privacy Policy](# Privacy Policy).
+To understand how your information is collected, utilized, disclosed, or processed in relation to your interaction with our Services and Software, please refer to our Privacy Policy.
 
 ## 2.2 Interaction with Your Content
 Our access to, review, or listening of your Content is strictly limited and always compliant with legal standards. Such actions may be necessary for:
 1. Addressing support requests or responding to your feedback.
 2. Identifying, preventing, or tackling issues related to fraud, security, legal, or technical matters.
 3. Upholding the stipulations of these Terms.
-In addition, our Services and Software might employ machine learning to analyze and process your Content. This aids in enhancing both our offerings and your user experience. Further details are available in our [Privacy Policy](# Privacy Policy).
+In addition, our Services and Software might employ machine learning to analyze and process your Content. This aids in enhancing both our offerings and your user experience. Further details are available in our Privacy Policy.
 
 ## 2.3 Handling of Sensitive Personal Data
 You are obliged not to gather, process, or store Sensitive Personal Data (SPD) through our Services and Software, except as explicitly designed by the Services and Software.
