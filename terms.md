@@ -1,5 +1,7 @@
 Date: 20.12.2023
 
+# Terms of Service
+
 # Introduction
 
 The following terms of service (hereafter referred to as **Terms**) regulate your access to and use of our websites, web-based and AI-driven applications, products, and any software incorporated as part of our services. This encompasses all forms of our software, including but not limited to, mobile and desktop applications (together referred to as **Software**).
