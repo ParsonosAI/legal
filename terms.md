@@ -92,17 +92,6 @@ You are responsible for complying with all applicable third-party terms.
 
 # 4. Your Content
 
-## 4.1 Content
-"Content" means any text, information, communciation or material such as audio files, video files, electronic documents or images that you upload, import into, embed for use by, or create using the Services and Software.
-We reserve the right (but with no obligation) to remove Content or restrict access to Content, Services and Software if any of your Content is found to violate the Terms.
-We do not review all content but we may use available technologies, vendors or processes to screen for certain types of illegal content or other abusive content or behavior.
-
-## 4.2 Ownership.
-As between you and Parsonos, you retain all rights and ownership of your Content (or where applicable, you must ensure that you or the Business (as applicable) have a valid license to the Content).
-We do not claim any ownership rights to your Content.
-
-# 4. Your Content
-
 ## 4.1 Definition of Content
 The term "Content" encompasses any texts, communications, or materials such as audio files, video files, electronic documents, or images that you upload, incorporate, embed, or generate using the Services and Software.
 Although we are not obliged to do so, we reserve the right to remove or restrict access to any Content, Services, or Software if your Content violates these Terms.
