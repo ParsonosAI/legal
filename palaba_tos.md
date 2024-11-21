@@ -173,17 +173,33 @@ This Batch Arbitration provision shall in no way be interpreted as authorizing a
 
 **10.6 Entire Terms.** These Terms constitute the entire agreement between you and us regarding the use of the Site. Our failure to exercise or enforce any right or provision of these Terms shall not operate as a waiver of such right or provision. The section titles in these Terms are for convenience only and have no legal or contractual effect. The word “including” means “including without limitation”.  If any provision of these Terms is, for any reason, held to be invalid or unenforceable, the other provisions of these Terms will be unimpaired and the invalid or unenforceable provision will be deemed modified so that it is valid and enforceable to the maximum extent permitted by law.  Your relationship to Company is that of an independent contractor, and neither party is an agent or partner of the other.  These Terms, and your rights and obligations herein, may not be assigned, subcontracted, delegated, or otherwise transferred by you without Company’s prior written consent, and any attempted assignment, subcontract, delegation, or transfer in violation of the foregoing will be null and void.  Company may freely assign these Terms.  The terms and conditions set forth in these Terms shall be binding upon assignees. 
 
-# 12 Third-Party Software
+# 12. Third-Party Software
 
 Our services may include or rely on third-party open-source software packages. By using our Services, you acknowledge and agree to the following:
 
 - **12.1 Use of Open-Source Software:** The Services incorporate third-party open-source software that is subject to its own license terms. A list of these packages nad their corresponding licenses can be found at [Link To Deps & License Table].
 
-- **12.2 License Compliance:** Your use of the Services does not modify or override any rights or obligations provided under the licenses of the respective third-party software.
+- **12.2 License Compliance:** Your use of the Services does not modify or override any rights or obligations provided under the licenses of the respective third-party software. By using the Services, you agree to comply with these licensing terms.
 
-- **12.3 Attribution:** Company acknowledges and provides attribution to the authors of the open-source softare packages as required by their licenses.
+- **12.3 Limits of Liability:** Company does not guarantee the performance, reliability, or compatibility of third-party software. To the fullest extent permitted by law, Company disclaims all liability for damages, losses, or disruptions caused by third-party software, including any failure or issue that arises form such usage or integration within the Services.
+
+- **12.4 Attribution:** Company acknowledges and provides attribution to the authors of the open-source softare packages as required by their licenses.
 
 - **Copyright/Trademark Information.**  Copyright © 2024 Parsonos Corporation. All rights reserved.  All trademarks, logos and service marks (“Marks”) displayed on the Site are our property or the property of other third parties. You are not permitted to use these Marks without our prior written consent or the consent of such third party which may own the Marks.
+
+# 13. Warranties and Indemnities Related to Third-Party Software
+
+- **13.1 No Warranties by Company:** The third-party software integrated into the Services is provided “as is” and “as available” under the terms of their respective licenses. Company makes no warranties, express or implied, regarding the performance, reliability, or compatibility of third-party software, including but not limited to implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+- **13.2 Pass-Through Warranties:** Any warranties related to third-party software are provided solely by the original licensor and not by Company. By using the Services, you agree to comply with all terms and conditions of the respective third-party licenses.
+- **13.3 Indemnity by User:** You agree to indemnify and hold harmless Company and its affiliates from any claims, damages, or liabilities arising from: (a) Your failure to comply with third-party software licensing terms. (b) Your use of third-party software in violation of applicable laws or third-party rights.
+
+# 14. Compliance with Third-Party Licensing Obligations
+
+- **15.1 GPL and Similar Licenses.** Certain third-party software components integrated into the Services may be subject to licenses requiring public disclosure of their source code (e.g., GNU General Public License, LGPL). Where applicable, Company complies with these obligations by making the source code or modifications publicly available. For more information, visit [link to source code disclosure page].
+
+- **15.2 Jurisdiction-Specific Obligations.** If the use of third-party software imposes additional compliance requirements under specific jurisdictions, Company will take reasonable steps to ensure compliance. By using the Services, you acknowledge and agree to these requirements, including: (a) Any obligations related to open-source license compliance. (b) Specific data protection or privacy laws, such as GDPR, CCPA, or equivalent legislation.
+
+- **15.3 User Acknowledgment.** By using the Services, you agree to comply with all relevant obligations imposed by third-party software licenses. Company reserves the right to terminate your account if your use of the Services violates these obligations.
 
 ### Contact Information:
 	Norbert Dzikowski

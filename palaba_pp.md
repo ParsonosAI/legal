@@ -59,7 +59,40 @@ As part of the Service, we may provide links to or compatibility with other webs
 # VI. CHANGES TO OUR PRIVACY POLICY
 The Company reserves the right to change this policy and our Terms of Service at any time.  We will notify you of significant changes to our Privacy Policy by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site. Significant changes will go into effect 30 days following such notification. Non-material changes or clarifications will take effect immediately. You should periodically check the Site and this privacy page for updates.
 
-# VII. CONTACT US
+# VII. THIRD-PARTY SOFTWARE AND DATA PROCESSING
+We use third-party software as part of our Services to enhances performance, deliver features, and ensure reliability. Some of this software may process non-personal data, as specified in their respective privacy policies.
+
+## 1. Licensing Compliance:
+The third-party software integrated into our Services is used in accordance with its applicable licenses.
+
+- Details about these software packages and their licensing terms can be found on our [license disclosure page].
+
+## 2. Data Handling:
+The use of third-party software and services serves to provide, enhance, and maintain the functionality of our platform. Some of these third-party tools may process user data in ways necessary for their operation. This section clarifies how such third-party software interacts with your data and any resulting obligations for users.
+
+**2.1 Third-Party Software Integration**:
+
+- **Purpose**: The third-party software integrated into our platform is used for tasks such as data processing, system optimization, analytics, and support functions.
+- **Data Handling**: These tools may process specific types of data, which may include: (a) Direct Processing: Data directly provided by users, such as uploaded files or account metadata. (b) Indirect Processing: System-generated data, such as log files, timestamps, or usage statistics.
+- **Data Storage and Retention by Third Parties**: Where applicable, third-party providers process data only temporarily and do not store or retain it beyond the duration necessary for their functionality.
+
+## 3. User Consent:
+When you upload data or interact with the platform, you consent to the use of third-party software for processing your data as described in this Privacy Policy.
+
+## 4. Our Responsibilities
+
+- **Selection of Trusted Providers**: We only integrate third-party providers that comply with applicable data protection laws (e.g. GDPR, CCPA) and maintain appropriate security measures.
+- **Processing Agreements**: Where required, we maintain contractual agreements with third-party providers to ensure that data is processed securely, lawfully, and only for the intended purposes.
+
+## 4. Liability Disclaimer:
+While we take reasonable steps to ensure that third-party providers process data securely and responsibly, we cannot guarantee their compliance with all applicable regulations. By using the Services, you acknowledge and accept the risks associated with third-party data processing.
+
+**2.2 Third-Party Compliance Obligations**:
+
+- **Open-Source Licensing Requirements:** Some third-party software used in our Services may require the public disclosure of source code (e.g., GPL). Company complies with these obligations by making the source code available at [link to source code disclosure page].
+- **Data Processing Compliance:** Third-party software integrated into the platform complies with applicable data protection regulations, such as GDPR and CCPA. However, users are responsible for ensuring compliance with any additional obligations specific to their jurisdiction when using the Services.
+
+# VIII. CONTACT US
 If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email to legal@parsonos.com.
 
 **Last Updated: This Privacy Policy was last updated on 16th November, 2024**

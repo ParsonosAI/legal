@@ -177,7 +177,24 @@ You agree to resolve disputes on an individual basis and waive any right to part
 
 We reserve the right to update this Agreement. You will be notified of material changes and required to agree to the new terms to continue using the Services.
 
-# 10. **Entire Agreement**
+# 10. **Third-Party Software**
+The Services may rely on third-party software to deliver certain functionalities. By subscribing to the Services, you acknowledge and agree to the following:
+
+1. **Licensing Terms:**
+
+- Third-party software components integrated into the Services are governed by their respective licensing terms.
+- A complete list of third-party software and its licenses is available at [license disclosure page].
+
+2. **Liability Limitation:**
+
+- Company is not liable for issues or damages caused by third-party software, including performance issues, security vulnerabilities, or compatibility problems.
+- Your use of the Services constitutes acceptance of these limitations.
+
+3. **Proprietary Software Conditions:**
+
+- Some features of the Services may depend on proprietary third-party software. Any limitations or restrictions related to this software will be detailed on the [license disclosure page] or communicated during the subscription process.
+
+# 11. **Entire Agreement**
 
 This Agreement constitutes the entire understanding between you and Company regarding the Services and supersedes all prior agreements.
 
