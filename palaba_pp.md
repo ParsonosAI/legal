@@ -51,7 +51,23 @@ We protect your information by employing state-of-the-art security measures, inc
 While we strive to safeguard your information, no security measures are entirely infallible. Unauthorized access, data breaches, or other risks may still occur. By using our Service, you acknowledge and accept these potential risks and agree to notify us immediately if you suspect unauthorized access to your account.
 
 # IV. YOUR RIGHTS REGARDING THE USE OF YOUR PERSONAL INFORMATION
+
+## 1. Marketing Purposes
 You have the right at any time to prevent us from contacting you for marketing purposes.  When we send a promotional communication to a user, the user can opt out of further promotional communications by following the unsubscribe instructions provided in each promotional e-mail. Please note that notwithstanding the promotional preferences you indicate by unsubscribing, we may continue to send you administrative emails including, for example, periodic updates to our Privacy Policy.
+
+## 2. Data Retention
+We retain user data for as long as it is necessary to provide the Services, fulfill the purposes outlined in this Privacy Policy, or comply with legal, regulatory, or contractual obligations.
+
+**2.1 Retention Periods**: 
+
+- **Account information:** Retained for the duration of your account's activity. Upon account closure, this data will be deleted or anonymized within 30 day, unless required by law.
+- **User-Provided Data and Processing Results based on following criteria:**
+1. **Retention Periods**: **Active Projects:** User-provided data and their processing results are retained for as long as the user's project remains active. **Inactive Projects:** If a project has not been accessed, modified, or used within the last 30 days, we may reasonably assume the project is no longer needed. In such cases, we reserve the right to delete or archive the project and its asociated data to free up storage space.
+2. **User-Initiated Deletion:** Users can delete their projects at any time through their account dashboard. Upon deletion, all associated data and processing results will be permanently removed from our active systems within 30 days.
+3. **Storage Constraints**: In the event that storage capacity becomes limited, we may prioritze the removal of inactive projects. Users will be notified 3 days in advance before their data is deleted for this reason.
+4. **Anonymization and Residual Storage**: After deletion, we may retain anonymized data for research, analytics, or improvement of our Services. This data will not be linked to any individual project.
+5. **User Notifications**: Before permanently deleting inactive projects, we **may** attempt to notify the user via their registered email address.
+6. **Legal or Regulatory Retention**: Certain data may be retained longer if required by applicable laws or regulations.
 
 # V. LINKS TO OTHER WEBSITES
 As part of the Service, we may provide links to or compatibility with other websites or applications. However, we are not responsible for the privacy practices employed by those websites or the information or content they contain. This Privacy Policy applies solely to information collected by us through the Site and the Service. Therefore, this Privacy Policy does not apply to your use of a third party website accessed by selecting a link on our Site or via our Service. To the extent that you access or use the Service through or on another website or application, then the privacy policy of that other website or application will apply to your access or use of that site or application. We encourage our users to read the privacy statements of other websites before proceeding to use them.
