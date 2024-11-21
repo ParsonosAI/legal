@@ -173,6 +173,16 @@ This Batch Arbitration provision shall in no way be interpreted as authorizing a
 
 **10.6 Entire Terms.** These Terms constitute the entire agreement between you and us regarding the use of the Site. Our failure to exercise or enforce any right or provision of these Terms shall not operate as a waiver of such right or provision. The section titles in these Terms are for convenience only and have no legal or contractual effect. The word “including” means “including without limitation”.  If any provision of these Terms is, for any reason, held to be invalid or unenforceable, the other provisions of these Terms will be unimpaired and the invalid or unenforceable provision will be deemed modified so that it is valid and enforceable to the maximum extent permitted by law.  Your relationship to Company is that of an independent contractor, and neither party is an agent or partner of the other.  These Terms, and your rights and obligations herein, may not be assigned, subcontracted, delegated, or otherwise transferred by you without Company’s prior written consent, and any attempted assignment, subcontract, delegation, or transfer in violation of the foregoing will be null and void.  Company may freely assign these Terms.  The terms and conditions set forth in these Terms shall be binding upon assignees. 
 
+# 12 Third-Party Software
+
+Our services may include or rely on third-party open-source software packages. By using our Services, you acknowledge and agree to the following:
+
+- **12.1 Use of Open-Source Software:** The Services incorporate third-party open-source software that is subject to its own license terms. A list of these packages nad their corresponding licenses can be found at [Link To Deps & License Table].
+
+- **12.2 License Compliance:** Your use of the Services does not modify or override any rights or obligations provided under the licenses of the respective third-party software.
+
+- **12.3 Attribution:** Company acknowledges and provides attribution to the authors of the open-source softare packages as required by their licenses.
+
 - **Copyright/Trademark Information.**  Copyright © 2024 Parsonos Corporation. All rights reserved.  All trademarks, logos and service marks (“Marks”) displayed on the Site are our property or the property of other third parties. You are not permitted to use these Marks without our prior written consent or the consent of such third party which may own the Marks.
 
 ### Contact Information:
