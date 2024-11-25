@@ -100,10 +100,10 @@ When you upload data or interact with the platform, you consent to the use of th
 - **Selection of Trusted Providers**: We only integrate third-party providers that comply with applicable data protection laws (e.g. GDPR, CCPA) and maintain appropriate security measures.
 - **Processing Agreements**: Where required, we maintain contractual agreements with third-party providers to ensure that data is processed securely, lawfully, and only for the intended purposes.
 
-## 4. Liability Disclaimer:
+## 5. Liability Disclaimer:
 While we take reasonable steps to ensure that third-party providers process data securely and responsibly, we cannot guarantee their compliance with all applicable regulations. By using the Services, you acknowledge and accept the risks associated with third-party data processing.
 
-**2.2 Third-Party Compliance Obligations**:
+**5.1 Third-Party Compliance Obligations**:
 
 - **Open-Source Licensing Requirements:** Some third-party software used in our Services may require the public disclosure of source code (e.g., GPL). Company complies with these obligations by making the source code available at [link to source code disclosure page].
 - **Data Processing Compliance:** Third-party software integrated into the platform complies with applicable data protection regulations, such as GDPR and CCPA. However, users are responsible for ensuring compliance with any additional obligations specific to their jurisdiction when using the Services.
