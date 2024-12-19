@@ -34,6 +34,9 @@ We may share Personal Information with outside parties if we have a good-faith b
 In general, we use Non-Personal Information to help us improve the Service and customize the user experience. We also aggregate Non-Personal Information in order to track trends and analyze use patterns on the Site. This Privacy Policy does not limit in any way our use or disclosure of Non-Personal Information and we reserve the right to use and disclose such Non-Personal Information to our partners, advertisers and other third parties at our discretion.
 In the event we undergo a business transaction such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Personal Information may be among the assets transferred. You acknowledge and consent that such transfers may occur and are permitted by this Privacy Policy, and that any acquirer of our assets may continue to process your Personal Information as set forth in this Privacy Policy. If our information practices change at any time in the future, we will post the policy changes to the Site so that you may opt out of the new information practices. We suggest that you check the Site periodically if you are concerned about how your information is used.
 
+## Data sharing
+We do not and never will sell your data to third parties. This holds for personal data as well as data provided by you for processing.
+
 # III. HOW WE PROTECT INFORMATION
 We implement robust security measures designed to protect your information from unauthorized access, disclosure, alteration, or destruction.
 
@@ -68,6 +71,9 @@ We retain user data for as long as it is necessary to provide the Services, fulf
 4. **Anonymization and Residual Storage**: After deletion, we may retain anonymized data for research, analytics, or improvement of our Services. This data will not be linked to any individual project.
 5. **User Notifications**: Before permanently deleting inactive projects, we **may** attempt to notify the user via their registered email address.
 6. **Legal or Regulatory Retention**: Certain data may be retained longer if required by applicable laws or regulations.
+
+## 3. Access, Correction and Deletion
+You have the right to request access to how we process your personal data, as well as receive a machine readable copy of your data. You may also request that we correct any inaccuracies in your data or delete your data entirely. To exercise these rights, please contact us at team@parsonos.com. We will respond to your request within a reasonable timeframe and provide you with the necessary information or actions if applicable by law. We will ask you to verify your identity before proceeding with your request. If the request is unfounded or cannot be fulfilled, we will provide an explanation for our decision.
 
 # V. LINKS TO OTHER WEBSITES
 As part of the Service, we may provide links to or compatibility with other websites or applications. However, we are not responsible for the privacy practices employed by those websites or the information or content they contain. This Privacy Policy applies solely to information collected by us through the Site and the Service. Therefore, this Privacy Policy does not apply to your use of a third party website accessed by selecting a link on our Site or via our Service. To the extent that you access or use the Service through or on another website or application, then the privacy policy of that other website or application will apply to your access or use of that site or application. We encourage our users to read the privacy statements of other websites before proceeding to use them.
