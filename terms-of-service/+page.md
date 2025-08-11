@@ -59,7 +59,7 @@ If you provide Company with any feedback or suggestions regarding the Site (“F
 **3.2 License.**
 By submitting User Content to Company, you grant Company a limited, non-exclusive, irrevocable, royalty-free, fully paid, worldwide license to process, analyze, and use your User Content solely for the purposes of:
 
-- Providing the Service: Using your User Content to train non-generative models, improve features, and deliver the intended functionality of the service.
+- Providing the Service: Using your User Content for statistical analysis for non-generative purposes, improve features, and deliver the intended functionality of the service.
 - Processing with Third Parties: Sharing necessary portions of your User Content with third-party service providers strictly for processing tasks required to deliver the service, under the condition that such third parties do not store or retain your data after processing.
 - This license is strictly limited to the operation and enhancement of the services and does not include any right to distribute, publicly display, sublicense, or otherwise share your User Content with any other users or third parties, except as necessary for the functioning of the service as described above.
 - Your User Content will remain accessible only to you, and Company will not use your User Content for purposes unrelated to the service, including but not limited to marketing, advertising, or generative AI applications.
