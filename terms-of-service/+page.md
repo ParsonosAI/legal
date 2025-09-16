@@ -1,7 +1,19 @@
 # Website Terms of Use
 Version 1.0
-*Last revised on: 15th November, 2024*
+*Last revised on: 16th September, 2025*
 
+
+# FAQ
+
+**Q:** Is my data used to train generative models?  
+**A:** No. Your data is used only to deliver the services you request.
+
+**Q:** Do you claim any rights to my data?  
+**A:** No. You retain full ownership of all data you provide. We operate Palaba to process it and nothing more.
+
+**Q:** How long is project data stored?  
+**A:** Data is stored only as long as needed to produce project results. Once you download your results, you may delete the session and no data will remain. Because projects can span weeks, we notify you before deleting inactive project data. If you need data retained longer (e.g. for pickups), you can prevent deletion by reopening the project in the Palaba Desktop app.
+ 
 
 The website located at www.parsonos.com (the “Site”) is a copyrighted work belonging to Parsonos Corporation (“Company”, “us”, “our”, and “we”).  Certain features of the Site may be subject to additional guidelines, terms, or rules, which will be posted on the Site in connection with such features.  All such additional terms, guidelines, and rules are incorporated by reference into these Terms.
 
