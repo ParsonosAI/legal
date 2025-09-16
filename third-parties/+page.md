@@ -4,12 +4,12 @@ The following table provides an overview of our subprocessor and the APIs we use
 
 | Subprocessor | Purpose | Extend of data access | Security Measures / Data Processing |
 | --- | --- | --- | --- |
-| OpenAI | Generate text responses to prompts | Bits and pieces of provided scripts for processing purposes. Never the whole or significant large pieces. | (Privacy Policy)[https://openai.com/enterprise-privacy/] |
+| Gemini | Generate text responses to prompts | Significant pieces of provided scripts for processing purposes. Provided autio. (no retention, no training) | (Privacy Policy (paid services))[https://ai.google.dev/gemini-api/terms#paid-services] |
 | Stripe | Payment processing & account handling | Name & Email & Address as well as payment information (not visible to us) | (Data Processing Agreement)[https://stripe.com/en-gb-de/legal/dpa] |
-| AssemblyAI | Transcription | Full Audio (no retention) | (Privacy Policy)[https://www.assemblyai.com/legal/privacy-policy] |
-| Speechmatics | Transcription | Small bits of Audio (few seconds, no retention) | (Privacy Policy)[https://www.speechmatics.com/legal/privacy-policy] |
+| AssemblyAI | Transcription | Full Audio (no retention, no training) | (Privacy Policy)[https://www.assemblyai.com/legal/privacy-policy] |
+| Speechmatics | Transcription | Small bits of Audio (few seconds, no retention, no training) | (Privacy Policy)[https://www.speechmatics.com/legal/privacy-policy] |
 | PostHog | Analytics | IP Address, User Agent, Page Visits, Events | (Privacy Policy)[https://posthog.com/privacy] |
-| Datalab | OCR | Script, if given as PDF | (Privacy Policy)[https://www.datalab.to/privacy] |
+| Convex | Database | Metadata storage for our service | (Privacy Policy)[https://www.convex.dev/legal/privacy/v2024-03-21] |
 
 # Data Processing and Retention
 
