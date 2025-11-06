@@ -8,7 +8,7 @@ The terms “we,” “us,” and “our” refer to the Company.
 “You” refers to you, as a user of our Site or our Service. 
 By accessing our Site or our Service, you accept our Privacy Policy and Terms of Use (found here: [insert link to Terms of Use]), and you consent to our collection, storage, use and disclosure of your Personal Information as described in this Privacy Policy.
 
-**For enterprise or controller-processor relationships, see our Data Processing Agreement.**
+**For enterprise or controller-processor relationships, see our Data Processing Addendum.**
 
 # I. INFORMATION WE COLLECT
 We collect “Non-Personal Information” and “Personal Information.” Non-Personal Information includes information that cannot be used to personally identify you, such as anonymous usage data, general demographic information we may collect, referring/exit pages and URLs, platform types, preferences you submit and preferences that are generated based on the data you submit and number of clicks. Personal Information includes your email, which you submit to us through the registration process at the Site.
