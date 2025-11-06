@@ -1,8 +1,11 @@
 # Subscription Service Agreement
 
-Effective Date: 16th November, 2024
+Effective Date: 6th November, 2025
 
 This Subscription Service Agreement (the “Agreement”) is entered into by and between Parsonos Corporation (“Company,” “we,” “us,” or “our”) and the individual or entity subscribing to our services (“Subscriber,” “you,” or “your”). By creating an account, subscribing to our services, or otherwise using the services, you agree to be bound by this Agreement. If you do not agree, you must not use the services.
+
+## Eligibility.
+You must be at least **18 years of age** and capable of forming a binding contract to subscribe to or use the Services. If you are entering this Agreement on behalf of a business, you represent that you are authorized to bind that business to these terms.
 
 # 1. **Definitions**
 
@@ -75,7 +78,7 @@ If payment is not received within 30 days of the due date, Company reserves the 
 If you believe you have been incorrectly billed, you must notify Company within 15 days of the billing date. Failure to do so may waive your right to dispute the charge.
 
 ## 3.7 Refund Policy.
-Payments made for the Flat Fee or Overage Charges are non-refundable, including in cases of suspension or termination due to non-payment, except where required by law.
+All payments are non-refundable except where required by applicable consumer-protection law. Residents of jurisdictions granting mandatory withdrawal or refund rights will retain those rights.
 
 ## 3.8 Taxes.
 You are responsible for any applicable taxes associated with your use of the Services, excluding taxes based on Company’s income.
@@ -115,15 +118,28 @@ This Agreement does not grant you any ownership rights in the Services or relate
 ## 4.6 Updates and Availability.
 Company may, at its discretion, update, modify, or temporarily suspend the Services to improve performance, address security concerns, or for maintenance. We will endeavor to notify users of any significant disruptions.
 
+## 4.7 Personal Use Limitation.
+Subscription plans are intended for individual and small-team use only. Large-scale, studio, or multi-seat usage requires a separate enterprise agreement. The Company may suspend or terminate accounts that substantially exceed normal individual usage patterns.
+
 # 5. **Data Usage**
 
-## 5.1 Ownership of User Data.
-You retain ownership of all User Data submitted to the Services.
+## 5.1 Ownership
 
-## 5.2 License to Company.
-You grant us a limited, non-exclusive, royalty-free license to process your User Data solely for the purposes of delivering the Services.
+You retain full ownership of all data, files, and materials (“User Data”) submitted to the Services.
 
-## 5.3 Confidentiality.
+## 5.2 Limited License to Company
+
+You grant Parsonos Corporation a limited, revocable, non-exclusive, royalty-free license to store, process, and transmit your User Data solely to:
+- (a) deliver, maintain and improve the Services;
+- (b) perform security, integrity, and abuse-prevention checks; and
+- (c) comply with legal obligations.
+
+The Company does not sell, share, or train generative models on your data. The license terminates automatically when the data is deleted under Section 6 or your account is closed.
+
+## 5.3 Prohibited Use
+You may not use the Services to process or distribute unlawful, infringing, or sensitive personal data unless permitted by law and agreed in writing.
+
+## 5.4 Confidentiality.
 We will not share or distribute your User Data except as required to provide the Services or comply with legal obligations.
 
 # 6. **Term and Termination**
@@ -137,14 +153,14 @@ Subscriptions automatically renew unless canceled in accordance with this Agreem
 ## 6.3 Termination.
 Either party may terminate the Agreement by providing written notice.
 
+# 6.4 Data Deletion.
+Upon termination or deletion of your account, the Company will permanently remove your personal data and project files from active systems within 30 days and from backup media in the normal backup cycle. Residual anonymized data used for service analytics may remain but will not identify you.
+
 # 7. **Liability and Indemnification**
 
 ## 7.1 Limitation of Liability.
-To the fullest extent permitted by law and as detailed in the [Terms of Service], Company and its affiliates, officers, employees, and agents shall not be liable for:
-
-- Any indirect, incidental, consequential, special, or exemplary damages arising out of or in connection with the use or inability to use the Services.
-- Loss of data, revenue, profits, or business opportunities, even if Company has been advised of the possibility of such damages.
-- Any damages exceeding the total amount you paid to Company for the Services in the twelve (12) months preceding the event giving rise to the liability.
+To the maximum extent permitted by law, the Company’s total cumulative liability arising from or related to the Services, whether in contract, tort, or otherwise, shall not exceed the greater of (1) USD $100 or (2) the total fees paid by you for the Services in the six (6) months preceding the event giving rise to the claim.
+The Company shall not be liable for indirect, consequential, special, or punitive damages, including loss of data, profits, or business opportunities.
 
 ## 7.2 Disclaimer of Warranties.
 The Services are provided “as is” and “as available” without any warranties of any kind, either express or implied, as described in the [Terms of Service]. This includes but is not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
@@ -164,11 +180,11 @@ All disputes arising out of or related to this Agreement shall be resolved as de
 1. You agree to attempt to resolve disputes informally by contacting Company’s support team at legal@parsonos.com before pursuing formal resolution methods.
 2. If informal resolution fails, disputes shall be subject to binding arbitration, unless otherwise required by applicable law.
 
-## 8.2 Governing Law.
-This Agreement, as well as any disputes or claims arising from or related to it, shall be governed by and construed in accordance with the laws of the governing jurisdiction given in [Terms of Service], without regard to its conflict of law principles.
+## 8.2 Governing Law
+This Agreement shall be governed by the laws of the **State of Delaware, USA**, excluding conflict-of-law rules.
 
-## 8.3 Exclusive Jurisdiction.
-If arbitration is not enforceable under applicable law, you agree that any legal action or proceeding related to this Agreement shall be brought exclusively in the courts located in jurisdiction given in [Terms of Service].
+## 8.3 Venue
+If arbitration under the Website Terms is not enforceable, exclusive jurisdiction and venue shall rest with the state and federal courts located in **New Castle County, Delaware, USA**.
 
 ## 8.4 Waiver of Class Actions.
 You agree to resolve disputes on an individual basis and waive any right to participate in a class, collective, or representative action.
@@ -198,5 +214,10 @@ The Services may rely on third-party software to deliver certain functionalities
 
 This Agreement constitutes the entire understanding between you and Company regarding the Services and supersedes all prior agreements.
 
+# 12. Relationship to Privacy Policy
+Your use of the Services is also governed by the Privacy Policy. In the event of conflict, this Agreement governs commercial terms, and the Privacy Policy governs data handling.
+
 ### Acknowledgment
 By subscribing to the Services, you acknowledge that you have read, understood, and agreed to this Agreement.
+
+# For enterprise contracts or data-processing terms, see the Parsonos DPA.

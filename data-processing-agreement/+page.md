@@ -1,7 +1,7 @@
 # Data Processing Agreement (DPA)
 
-Effective Date: November 1, 2025
-Last Updated: November 1, 2025
+Effective Date: November 6, 2025
+Last Updated: November 6, 2025
 
 This Data Processing Agreement (“DPA”) forms part of the Palaba Terms of Service (“Agreement”) between the user (“You”) and Parsonos Corporation (“Palaba,” “we,” “us,” “our”).
 This DPA applies only to personal, non-enterprise use of the Palaba platform.
@@ -107,4 +107,3 @@ If this DPA conflicts with the ToS, this DPA controls only for privacy and data 
 ## 14. Contact
 
 Data protection inquiries: legal@parsonos.com
-
