@@ -7,7 +7,8 @@ This Data Processing Addendum (“DPA”) forms part of the Palaba Terms of Serv
 This DPA applies only to personal, non-enterprise use of the Palaba platform.
 In the English-language market worldwide: For enterprise publishing, multi-seat use, or commercial audiobook production, a separate enterprise agreement is required through Rhapid Software Solutions Inc. Contact: support@rhapidsoftware.com
 
-This DPA is governed by the laws of the State of Delaware, USA, and, where required, by applicable data-protection law (including the EU GDPR, UK GDPR, and CCPA).
+This DPA is governed by the laws of the State of Delaware, USA, and applicable U.S. privacy regulations such as the California Consumer Privacy Act (CCPA).
+Palaba’s practices align with major international privacy frameworks, but the Service is operated and hosted exclusively in the United States and is not presently directed to residents of the European Economic Area or the United Kingdom.
 In the event of conflict between this DPA and the Agreement, this DPA prevails solely with respect to the Processing of Personal Data.
 
 ## 1. Roles
@@ -57,12 +58,8 @@ We will notify users of any material subprocessor changes before they take effec
 
 ## 6. International Transfers
 
-Data may be processed in the United States or other jurisdictions with adequate safeguards.
-Where applicable, we rely on:
-- Standard Contractual Clauses (SCCs), or
-- Other lawful transfer mechanisms
-
-Where EU/UK personal data is transferred to the United States or other non-adequate countries, the parties rely on the EU Commission’s Standard Contractual Clauses (2021/914/EU, Module 2) and, for UK data, the UK IDTA Addendum, as amended or replaced from time to time.
+All data is stored and processed in the United States. By using the Service, you understand and agree that your information will be transferred to and processed in the United States under U.S. privacy law.
+If Palaba later offers services in other regions requiring specific cross-border data transfer mechanisms, we will implement the necessary safeguards (for example, the EU Standard Contractual Clauses) at that time.
 
 ## 7. Security
 
@@ -73,14 +70,8 @@ We maintain reasonable and appropriate technical and organizational measures, in
 - Vulnerability management
 
 ## 8. Data Subject Rights
-If you are in the EU/EEA, UK, or California, you may request:
-- Access to data
-- Correction
-- Deletion (“right to be forgotten”)
-- Data portability
-- Restriction or objection to processing
-
-You or any data subject may lodge a complaint with a competent supervisory authority. Parsonos Corporation will cooperate with supervisory authorities on request.
+Depending on your location, you may have rights regarding your personal information, including access, correction, deletion, or portability.
+We honor such requests to the extent required by applicable law.
 
 Contact: legal@parsonos.com 
 
@@ -97,7 +88,7 @@ We honor deletion requests unless retention is required by law.
 
 ## 10. Controller Assistance
 
-We assist you, as Controller, in fulfilling your data-protection obligations, including responding to data-subject requests, conducting impact assessments, and consulting with supervisory authorities, to the extent applicable to our role and the nature of processing.
+We assist you in exercising available privacy rights and in understanding how your data is processed, to the extent reasonably possible given the nature of our Service.
 
 ## 11. Breach Notification
 
@@ -143,3 +134,8 @@ See https://parsonos.com/legal/third-parties
 ### Annex C – Technical and Organizational Measures
 Palaba’s TOMs are described in Section 7 (Security) and Section 9 (Data Retention & Deletion) of this DPA and further detailed in the Palaba Privacy Policy, Chapter III (‘How We Protect Information’).
 Those sections form part of this Annex by reference.
+
+# Disclaimer
+
+_Note_: Palaba currently serves users outside the European Economic Area and the United Kingdom.
+If you access the Service from those regions, your data will be processed in the United States in accordance with this DPA and U.S. privacy law.

@@ -7,6 +7,9 @@ This Subscription Service Agreement (the “Agreement”) is entered into by and
 ## Eligibility.
 You must be at least **18 years of age** and capable of forming a binding contract to subscribe to or use the Services. If you are entering this Agreement on behalf of a business, you represent that you are authorized to bind that business to these terms.
 
+## Service Region and Applicability.
+The Services are operated and hosted exclusively in the United States. They are intended for users located outside the European Economic Area and the United Kingdom. While we align our privacy and data-handling practices with leading international standards such as GDPR and CCPA, U.S. privacy law governs all processing under this Agreement.
+
 # 1. **Definitions**
 
 - **“Services”** means the subscription-based Palaba service (AI Audio Cutter) provided by Parsonos Corporation.
@@ -136,8 +139,12 @@ You grant Parsonos Corporation a limited, revocable, non-exclusive, royalty-free
 
 The Company does not sell, share, or train generative models on your data. The license terminates automatically when the data is deleted under Section 6 or your account is closed.
 
+All processing occurs in the United States unless otherwise specified in the current list of subprocessors.
+
 ## 5.3 Prohibited Use
 You may not use the Services to process or distribute unlawful, infringing, or sensitive personal data unless permitted by law and agreed in writing.
+
+Upload or process personal data of individuals located in jurisdictions where cross-border data transfers to the United States are restricted, unless you have obtained all required consents or legal bases.
 
 ## 5.4 Confidentiality.
 We will not share or distribute your User Data except as required to provide the Services or comply with legal obligations.
@@ -155,6 +162,8 @@ Either party may terminate the Agreement by providing written notice.
 
 # 6.4 Data Deletion.
 Upon termination or deletion of your account, the Company will permanently remove your personal data and project files from active systems within 30 days and from backup media in the normal backup cycle. Residual anonymized data used for service analytics may remain but will not identify you.
+
+These deletion schedules reflect industry best practice under U.S. privacy law and are consistent with the Company’s Privacy Policy and DPA.
 
 # 7. **Liability and Indemnification**
 
@@ -174,20 +183,17 @@ You agree to indemnify, defend, and hold harmless Company and its affiliates, of
 
 # 8. **Dispute Resolution and Governing Law**
 
-## 8.1 Dispute Resolution.
-All disputes arising out of or related to this Agreement shall be resolved as described in the [Terms of Service]. Specifically:
-
-1. You agree to attempt to resolve disputes informally by contacting Company’s support team at legal@parsonos.com before pursuing formal resolution methods.
-2. If informal resolution fails, disputes shall be subject to binding arbitration, unless otherwise required by applicable law.
+## 8.1 Informal Resolution and Arbitration
+Disputes arising under or in connection with this Agreement are governed by the dispute-resolution procedures set forth in the Company’s Terms of Service (§10.2). By entering this Agreement, you agree that any dispute will follow those same procedures, including good-faith informal resolution and, where applicable, binding arbitration administered by the American Arbitration Association (AAA) under its Consumer Arbitration Rules, conducted in New Castle County, Delaware or by video conference.
 
 ## 8.2 Governing Law
-This Agreement shall be governed by the laws of the **State of Delaware, USA**, excluding conflict-of-law rules.
+This Agreement is governed by the laws of the **State of Delaware, USA**, and the Federal Arbitration Act, without regard to conflict-of-law principles.
 
 ## 8.3 Venue
-If arbitration under the Website Terms is not enforceable, exclusive jurisdiction and venue shall rest with the state and federal courts located in **New Castle County, Delaware, USA**.
+If arbitration is found unenforceable or an opt-out is exercised under the Terms of Service, exclusive jurisdiction and venue shall rest with the state or federal courts located in **New Castle County, Delaware, USA**.
 
-## 8.4 Waiver of Class Actions.
-You agree to resolve disputes on an individual basis and waive any right to participate in a class, collective, or representative action.
+## 8.4 Individual Actions Only
+Disputes shall be resolved solely on an individual basis. Class, collective, consolidated, and representative actions are not permitted.
 
 # 9. **Modifications**
 
@@ -204,7 +210,7 @@ The Services may rely on third-party software to deliver certain functionalities
 2. **Liability Limitation:**
 
 - Company is not liable for issues or damages caused by third-party software, including performance issues, security vulnerabilities, or compatibility problems.
-- Your use of the Services constitutes acceptance of these limitations.
+- Company is not responsible for third-party software performance or security beyond the obligations stated in our DPA. We select trusted vendors and integrate them in accordance with applicable privacy and security standards.
 
 3. **Proprietary Software Conditions:**
 
@@ -220,4 +226,4 @@ Your use of the Services is also governed by the Privacy Policy. In the event of
 ### Acknowledgment
 By subscribing to the Services, you acknowledge that you have read, understood, and agreed to this Agreement.
 
-# For enterprise contracts or data-processing terms, see the Parsonos DPA.
+# For enterprise contracts or data-processing terms, see the Parsonos DPA. All processing is performed in the United States.

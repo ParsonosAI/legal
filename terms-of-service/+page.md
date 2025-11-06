@@ -17,9 +17,11 @@ Version 1.0
 
 The website located at www.parsonos.com (the “Site”) is a copyrighted work belonging to Parsonos Corporation (“Company”, “us”, “our”, and “we”).  Certain features of the Site may be subject to additional guidelines, terms, or rules, which will be posted on the Site in connection with such features.  All such additional terms, guidelines, and rules are incorporated by reference into these Terms.
 
-These Terms of Use (these “Terms”) set forth the legally binding terms and conditions that govern your use of the Site.  By accessing or using the Site, you are accepting these Terms (on behalf of yourself or the entity that you represent), and you represent and warrant that you have the right, authority, and capacity to enter into these Terms (on behalf of yourself or the entity that you represent).  you may not access or use the Site or accept the Terms if you are not at least 18 years old.  If you do not agree with all of the provisions of these Terms, do not access and/or use the Site.
+These Terms of Use (these “Terms”) set forth the legally binding terms and conditions that govern your use of the Site.  By accessing or using the Site, you are accepting these Terms (on behalf of yourself or the entity that you represent), and you represent and warrant that you have the right, authority, and capacity to enter into these Terms (on behalf of yourself or the entity that you represent). You may not access or use the Site or accept the Terms if you are not at least 18 years old.  If you do not agree with all of the provisions of these Terms, do not access and/or use the Site.
 
 **Use by Minors**. The Services are offered only to individuals 18 years or older. By creating an account, you represent that you meet this requirement.
+
+**Service Region and Applicability**. The Services are operated and hosted exclusively in the United States. They are intended for users located outside the European Economic Area and the United Kingdom. While our practices align with leading privacy principles, processing under these Terms is governed by U.S. law.
 
 PLEASE BE AWARE THAT SECTION 10.2 CONTAINS PROVISIONS GOVERNING HOW TO RESOLVE DISPUTES BETWEEN YOU AND COMPANY. AMONG OTHER THINGS, SECTION 10.2 INCLUDES AN AGREEMENT TO ARBITRATE WHICH REQUIRES, WITH LIMITED EXCEPTIONS, THAT ALL DISPUTES BETWEEN YOU AND US SHALL BE RESOLVED BY BINDING AND FINAL ARBITRATION.  SECTION 10.2 ALSO CONTAINS A CLASS ACTION AND JURY TRIAL WAIVER.  PLEASE READ SECTION 10.2 CAREFULLY.
 
@@ -74,7 +76,7 @@ The Site uses cookies and analytics tools (e.g. PostHog) to understand usage pat
 - You may not represent or imply to others that your User Content is in any way provided, sponsored, or endorsed by Company. You understand that Company is not obligated to back up your User Content, and it may be deleted at any time without prior notice. It is your responsibility to maintain your own backup copies of your User Content.
 
 **3.2 License to Company**.
-You retain full ownership of all User Content you upload or submit. You grant Parsonos Corporation a limited, revocable, non-exclusive, royalty-free license to store, process, and transmit your User Content solely to deliver, maintain and improve the Services, perform security checks, and comply with legal obligations. We do not sell, share, or train generative models on your data. This license terminates automatically when your User Content is deleted under Section 8 or your account is closed.
+You retain full ownership of all User Content you upload or submit. You grant Parsonos Corporation a limited, revocable, non-exclusive, royalty-free license to store, process, and transmit your User Content solely to deliver, maintain and improve the Services, perform security checks, and comply with legal obligations. We do not sell, share, or train generative models on your data. This license terminates automatically when your User Content is deleted per Section 8 and our Privacy Policy (retention and backup cycles), or when your account is closed.
 
 **3.3 Acceptable Use Policy.**
 The following terms constitute our “Acceptable Use Policy”:
@@ -141,20 +143,25 @@ These Terms are subject to occasional revision, and if we make any substantial c
 
 **10.2 Dispute Resolution**
 
-(a) Governing Law. These Terms and any dispute or claim arising out of or relating to them are governed by the laws of the State of Delaware, USA, and by the Federal Arbitration Act for matters of arbitration, without regard to conflict-of-law principles.
+(a) **Governing Law and FAA.** These Terms and any dispute or claim arising out of or relating to them are governed by the laws of the State of Delaware, USA. The Federal Arbitration Act (9 U.S.C. §§ 1–16) governs the interpretation and enforcement of this Section 10.2.
 
-(b) Informal Resolution. Before starting formal proceedings, each party agrees to try in good faith to resolve any dispute by written notice to the other and a 30-day discussion period. Send notices to legal@parsonos.com or 131 Continental Dr, Suite 305, Newark, Delaware 19713.
+(b) **Informal Resolution (30 Days).** Before starting formal proceedings, each party agrees to try in good faith to resolve any dispute by sending a written notice to the other party at legal@parsonos.com or 131 Continental Dr, Suite 305, Newark, Delaware 19713. The parties will discuss the dispute for 30 days after receipt of the notice. If it is not resolved within that period, either party may proceed as set out below.
 
-(c) Arbitration Agreement (United States only). If you reside or are established in the United States, any dispute that cannot be resolved informally shall be resolved by binding arbitration administered by the American Arbitration Association (AAA) under its Consumer Arbitration Rules. The arbitration shall take place by video conference or, if requested, in New Castle County, Delaware. Judgment on the award may be entered in any court having jurisdiction.
-- Each party bears its own attorneys’ fees and costs, except where applicable law provides otherwise.
-- Arbitration shall be conducted on an individual basis only; no class, collective, or representative actions are permitted.
-- Either party may seek temporary or injunctive relief in a court of competent jurisdiction to protect intellectual-property or confidential-information rights.
+(c) **Small Claims and Injunctive Relief.** Either party may bring an individual action in small claims court if permitted by that court’s rules. Either party may seek temporary or injunctive relief in a court of competent jurisdiction to protect intellectual property or confidential information.
 
-(d) Opt-Out Right. You may opt out of this arbitration clause by sending written notice within 30 days of accepting these Terms to legal@parsonos.com stating that you do not agree to arbitration. If you opt out, or if arbitration is found unenforceable, you agree that exclusive jurisdiction and venue shall be the state and federal courts of New Castle County, Delaware, USA.
+(d) **Binding Arbitration (United States).** If you reside or are established in the United States, any dispute not resolved under subsection (b) will be resolved by binding arbitration administered by the American Arbitration Association (“AAA”) under its Consumer Arbitration Rules then in effect. The arbitration will be conducted by a single, neutral arbitrator. The default hearing format is video conference; at either party’s request, an in-person hearing will occur in New Castle County, Delaware. Judgment on the award may be entered in any court having jurisdiction.
 
-(e) EU and Other Jurisdictions. If you are located in the European Union, EEA, United Kingdom, or another jurisdiction where mandatory consumer-protection law prohibits binding arbitration or class-action waivers, this Section 10.2 does not apply. In such cases, disputes shall be brought before the competent courts of your habitual residence.
+(e) **Individual Actions Only.** Arbitration will proceed on an individual basis only. Class, collective, consolidated, private attorney general, and representative actions are not permitted. The arbitrator may award relief only to the extent necessary to resolve your individual claim(s).
 
-(f) Survival. This Section 10.2 survives termination of your account or of these Terms.
+(f) **Fees and Costs.** The AAA rules govern filing, administrative, and arbitrator fees. Each party bears its own attorneys’ fees and costs unless applicable law provides otherwise or the arbitrator determines a claim was frivolous or brought for an improper purpose.
+
+(g) **Non-U.S. Mandatory Law.** If you are located in a jurisdiction where binding consumer arbitration or class-action waivers are not enforceable, this Section 10.2 does not apply to the extent of such non-enforceability. In that case, disputes shall be brought before the competent courts of your habitual residence, or, if permitted, exclusively in the state or federal courts of New Castle County, Delaware, USA.
+
+(h) **Opt-Out Right (30 Days).** You may opt out of arbitration by sending written notice to legal@parsonos.com within 30 days after first accepting these Terms. Your notice must state your name, email associated with your account, and that you are opting out of arbitration. If you opt out, subsection (e) (Individual Actions Only) still applies to court proceedings to the fullest extent allowed.
+
+(i) **Confidentiality.** The parties will keep arbitration proceedings and awards confidential to the extent permitted by law, except as needed to enforce an award or as required by legal or regulatory process.
+
+(j) **Severability and Survival.** If any part of this Section 10.2 is found unenforceable, the remainder will remain in effect, except that if the waiver in subsection (e) is found unenforceable as to a particular claim or request for relief, that claim or request will proceed in court and the remaining claims will be arbitrated. This Section 10.2 survives termination of your account or these Terms.
 
 **10.3 Export.** The Site may be subject to U.S. export control laws and may be subject to export or import regulations in other countries. You agree not to export, reexport, or transfer, directly or indirectly, any U.S. technical data acquired from Company, or any products utilizing such data, in violation of the United States export laws or regulations. 
 
@@ -173,11 +180,11 @@ Our services may include or rely on third-party open-source software packages. B
 
 - **11.1 Use of Open-Source Software:** The Services incorporate third-party open-source software that is subject to its own license terms. A current list of third-party subprocessors and their respective roles is available on our website and updated periodically or upon request.
 
-- **11.2 License Compliance:** Your use of the Services does not modify or override any rights or obligations provided under the licenses of the respective third-party software. By using the Services, you agree to comply with these licensing terms. All third-party processors handle data under written agreements providing GDPR- and CCPA-level protection, including Standard Contractual Clauses for transfers outside the EEA or UK.
+- **11.2 Vendor and License Compliance:** Third-party components and service providers are subject to their own licenses and terms. We select vendors that follow industry-standard security and privacy practices and bind them by written agreements to process data only for the Service’s purposes. Processing locations and provider roles are listed on our current subprocessor page.
 
-- **11.3 Limits of Liability:** Company does not guarantee the performance, reliability, or compatibility of third-party software. To the fullest extent permitted by law, Company disclaims all liability for damages, losses, or disruptions caused by third-party software, including any failure or issue that arises form such usage or integration within the Services.
+- **11.3 Limits of Liability:** Company does not guarantee the performance, reliability, or compatibility of third-party software. To the fullest extent permitted by law, Company disclaims all liability for damages, losses, or disruptions caused by third-party software, including any failure or issue that arises from such usage or integration within the Services.
 
-- **11.4 Attribution:** Company acknowledges and provides attribution to the authors of the open-source softare packages as required by their licenses.
+- **11.4 Attribution:** Company acknowledges and provides attribution to the authors of the open-source software packages as required by their licenses.
 
 - **Copyright/Trademark Information.**  Copyright © 2024 Parsonos Corporation. All rights reserved.  All trademarks, logos and service marks (“Marks”) displayed on the Site are our property or the property of other third parties. You are not permitted to use these Marks without our prior written consent or the consent of such third party which may own the Marks.
 
@@ -191,7 +198,7 @@ Our services may include or rely on third-party open-source software packages. B
 
 - **13.1 GPL and Similar Licenses.** Certain third-party software components integrated into the Services may be subject to licenses requiring public disclosure of their source code (e.g., GNU General Public License, LGPL). Where applicable, Company complies with these obligations by making the source code or modifications publicly available. For more information, visit [link to source code disclosure page].
 
-- **13.2 Jurisdiction-Specific Obligations.** If the use of third-party software imposes additional compliance requirements under specific jurisdictions, Company will take reasonable steps to ensure compliance. By using the Services, you acknowledge and agree to these requirements, including: (a) Any obligations related to open-source license compliance. (b) Specific data protection or privacy laws, such as GDPR, CCPA, or equivalent legislation.
+- **13.2 Jurisdiction-Specific Obligations.** If the use of third-party software imposes additional compliance requirements under specific jurisdictions, Company will take reasonable steps to ensure compliance. By using the Services, you acknowledge and agree to these requirements, including: (a) Any obligations related to open-source license compliance. (b) Specific data protection or privacy laws or equivalent legislation.
 
 - **13.3 User Acknowledgment.** By using the Services, you agree to comply with all relevant obligations imposed by third-party software licenses. Company reserves the right to terminate your account if your use of the Services violates these obligations.
 

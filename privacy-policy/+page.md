@@ -6,7 +6,12 @@ For purposes of this Agreement, “Site” refers to the Company’s website, wh
 “Service” refers to the Company’s services accessed via the Site, in which users can use Palaba, an AI enhanced audio cutter. 
 The terms “we,” “us,” and “our” refer to the Company.
 “You” refers to you, as a user of our Site or our Service. 
-By accessing our Site or our Service, you accept our Privacy Policy and Terms of Use (found here: [insert link to Terms of Use]), and you consent to our collection, storage, use and disclosure of your Personal Information as described in this Privacy Policy.
+
+**Service Region and Applicability**
+
+Palaba’s Services are operated and hosted exclusively in the United States. They are intended for users located outside the European Economic Area (EEA), the United Kingdom, and other jurisdictions with data-transfer restrictions.
+
+While our privacy practices align with the principles of major international frameworks such as GDPR and CCPA, the Service currently falls under U.S. privacy law. Users in regions where cross-border data transfers are restricted should not use the Service until we provide compliant hosting or contractual mechanisms.
 
 **For enterprise or controller-processor relationships, see our Data Processing Addendum.**
 
@@ -46,11 +51,7 @@ We do not use, train, or otherwise repurpose your User Data for generative model
 
 # III. LAWFUL BASES FOR PROCESSING
 
-We process personal data under the following legal bases:
-- **Contract Performance** – to provide the Services you request.
-- **Legitimate Interests** – to maintain security, prevent abuse, and improve the Service.
-- **Legal Obligation** – to comply with applicable laws, tax, and audit requirements.
-- **Consent** – where required for analytics cookies or marketing communications.
+We process personal data under the lawful bases recognized in major privacy frameworks such as the EU GDPR and UK GDPR, including contract performance, legitimate interests, legal obligation, and consent where applicable.
 
 # IV. HOW WE PROTECT INFORMATION
 We implement robust security measures designed to protect your information from unauthorized access, disclosure, alteration, or destruction.
@@ -68,7 +69,7 @@ We protect your information by employing state-of-the-art security measures, inc
 ## 3. Acknowledgment of Risk:
 While we strive to safeguard your information, no security measures are entirely infallible. Unauthorized access, data breaches, or other risks may still occur. By using our Service, you acknowledge and accept these potential risks and agree to notify us immediately if you suspect unauthorized access to your account.
 
-In the unlikely event of a personal-data breach, we will notify affected users and, where required, data-protection authorities within applicable statutory timeframes.
+In the unlikely event of a personal-data breach, we will notify affected users in accordance with applicable U.S. data-breach laws.
 
 # V. YOUR RIGHTS REGARDING THE USE OF YOUR PERSONAL INFORMATION
 
@@ -117,19 +118,14 @@ When you upload data or interact with the platform, you consent to the use of th
 
 ## 4. Our Responsibilities
 
-- **Selection of Trusted Providers**: We only integrate third-party providers that comply with applicable data protection laws (e.g. GDPR, CCPA) and maintain appropriate security measures.
-  - All subprocessors are bound by written agreements ensuring GDPR- and CCPA-level protections, including Standard Contractual Clauses for transfers outside the EEA or UK.
-- **Processing Agreements**: Where required, we maintain contractual agreements with third-party providers to ensure that data is processed securely, lawfully, and only for the intended purposes.
+We select trusted third-party providers that follow industry-standard security practices and maintain appropriate privacy and security measures.
+These providers process data only as needed to deliver functionality for our Service and only within the United States.
+If we expand to jurisdictions requiring cross-border transfer safeguards, we will implement suitable contractual or technical protections at that time.
 
 ## 5. Liability Disclaimer:
 While we take reasonable steps to ensure that third-party providers process data securely and responsibly, we cannot guarantee their compliance with all applicable regulations. By using the Services, you acknowledge and accept the risks associated with third-party data processing.
 
-A current list of subprocessors, their roles, and transfer safeguards is available on our website or upon request and updated periodically.
-
-**5.1 Third-Party Compliance Obligations**:
-
-- **Open-Source Licensing Requirements:** Some third-party software used in our Services may require the public disclosure of source code (e.g., GPL). Company complies with these obligations by making the source code available at [link to source code disclosure page].
-- **Data Processing Compliance:** Third-party software integrated into the platform complies with applicable data protection regulations, such as GDPR and CCPA. However, users are responsible for ensuring compliance with any additional obligations specific to their jurisdiction when using the Services.
+A current list of subprocessors, their roles, and processing locations is available on our website or upon request and updated periodically.
 
 # IX. CONTACT US
 If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email to legal@parsonos.com.
